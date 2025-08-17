@@ -1,0 +1,9 @@
+# Docker volumes
+minio-data/
+dremio-data/
+
+# Flink dependencies
+flink-jars/
+
+# Environment files
+.env
